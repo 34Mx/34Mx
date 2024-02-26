@@ -31,4 +31,4 @@ I am an independent young software developer who mainly focuses on web and mobil
 <br/>
 
 ### Which languages I use the most
-[![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=34Mx&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/34Mx)
+[![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=34Mx&theme=tokyonight)](https://github.com/34Mx)
