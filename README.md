@@ -2,7 +2,7 @@
 
 **`Frontend and Backend Dev`**
 
-I am an independent young software developer who mainly focuses on web and mobile applications, frontend development and networking. So get ready to experience projects from different categories.
+I'm a young software developer who mainly focuses on web and mobile applications, frontend development and networking. So get ready to experience projects from different categories.
 
 ---
 ### Languages and Tools
